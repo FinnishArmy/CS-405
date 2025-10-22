@@ -6,10 +6,10 @@
 </p>
 
 ## Table of Contents
-- [Course Description](#course-description)
-- [Project One](#project-one)
-- [Project Two](#project-two)
-- [Portfolio Reflection](#portfolio-reflection)
+- [Course Description](#-course-description-)
+- [Project One](#-project-one-)
+- [Project Two](#-project-two-)
+- [Portfolio Reflection](#-portfolio-reflection-)
 
 ## <h1 align="center"> Course Description </h1>
 Students will focus on common security vulnerabilities that are
